@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sayeed Shafayet Chowdhury"
-  avatar           : "sayeed.png"
+  #avatar           : "sayeed.png"
   bio              : "Energy-efficient ML at Purdue \n under Prof. Kaushik Roy"
-  location         : "Berlin/ Darmstadt, Germany"
-  employer         : "TU Darmstadt"
+  location         : "West Lafayette, Indiana, USA"
+  employer         : "Purdue University"
   pubmed           : 
   googlescholar    : 
   email            : "chowdh23@purdue.edu"
