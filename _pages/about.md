@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Sayeed!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![Illustration of combining vision and language modalities](/images/neuromorphic-_carlos_larrechi-alamy Large.jpeg){: .align-right width="300px"}
+👨🏻‍💻 I'm a 5th year graduate student at the TU Berlin.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
