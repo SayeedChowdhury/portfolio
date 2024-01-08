@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/neuromorphic-_carlos_larrechi-alamy Large.jpeg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/neuromorphic.jpeg){: .align-right width="300px"}
 👨🏻‍💻 I'm a 5th year graduate student at the TU Berlin.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
