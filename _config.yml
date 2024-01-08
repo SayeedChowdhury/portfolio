@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boris's Homepage"
+title                    : "Sayeed's Homepage"
 title_separator          : "-"
 name                     : &name "Boris Meinardus"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sayeed Meinardus"
-  avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
+  name             : "Sayeed Shafayet Chowdhury"
+  avatar           : "sayeed.png"
+  bio              : "Energy-efficient ML at Purdue \n under Prof. Kaushik Roy"
   location         : "Berlin/ Darmstadt, Germany"
   employer         : "TU Darmstadt"
   pubmed           : 
   googlescholar    : 
-  email            : "boris.meinardus@gmail.com"
+  email            : "chowdh23@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "SayeedChowdhury"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  # youtube          : "@borismeinardus"
   wikipedia        :
 
 
