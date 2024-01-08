@@ -11,9 +11,10 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/neuromorphic.jpeg)
-👨🏻‍💻 I'm a 5th year graduate student at the TU Berlin.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+👨🏻‍💻 I'm a 5th year graduate student at the ECE department of Purdue University.
+
+🔬 My research interests are in Bio-inspired ML (Spiking Neural Networks) and Scene Understanding!
 
 📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
 
