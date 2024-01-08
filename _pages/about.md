@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/neuromorphic.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](../images/neuromorphic.png){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a 5th year graduate student at the ECE department of Purdue University.
 
