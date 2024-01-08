@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Sayeed's Homepage"
 title_separator          : "-"
-name                     : &name "Boris Meinardus"
+name                     : &name "Sayeed Shafayet Chowdhury"
 description              : &description "personal description"
-url                      : https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SayeedChowdhury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sudo-Boris/sudo-Boris.github.io"
+repository               : "SayeedChowdhury/SayeedChowdhury.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sayeed Shafayet Chowdhury"
-  #avatar           : "sayeed.png"
+  avatar           : "profile.png"
   bio              : "Energy-efficient ML at Purdue \n under Prof. Kaushik Roy"
   location         : "West Lafayette, Indiana, USA"
   employer         : "Purdue University"
