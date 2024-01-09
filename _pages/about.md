@@ -22,7 +22,7 @@ redirect_from:
 
 # Professional Experience
 
-## 👨🏻‍🔬 Graduate Research Assistant  
+## Graduate Research Assistant  
 Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
